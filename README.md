@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an Android developer with a strong focus on building robust, scalable, and modern mobile apps.  
+I'm an Android developer working at EPAM Systems with a strong focus on building robust, scalable, and modern mobile apps.  
 I love crafting clean, maintainable code and exploring the latest Android tools and libraries.
 
 - 🧠 **Languages:** Kotlin, Java  
